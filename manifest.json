@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-gutter",
+  "name": "Gutter Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Extends Obsidian's gutter capabilities.",
+  "authorUrl": "https://cdr-links.glitch.me",
+  "author": "cdr-x",
+  "fundingUrl": "https://buymeacoffee.com/cdrx",
+  "isDesktopOnly": false
+}
