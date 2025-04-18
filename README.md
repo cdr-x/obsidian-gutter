@@ -5,6 +5,7 @@
  `._ FORGE _.'  Crafted in Obsidian mines 🛡️
     `"'""'"`
 ```
+![eg](demonstrated.gif)
 
 #### obsidian-gutters
 	A Sovereign Tweak for Obsidian's Gutters
